@@ -3,13 +3,33 @@
 A split-screen menu page
 
 ## Getting Started
+- ### SplitScreenMenu
+  - menu 
+  - initialRoute
+  - initPage
+  - onGenerateRoute
+- ###MenuNavigator
+  - push
+  - pushNamed
+  - popAndPushNamed
+- Use
+  - Please refer to the example
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+## Screenshot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Main
+![](images/Xnip2022-01-24_14-53-38.png)
 
+### Menu
+- on Pad
+![](images/Xnip2022-01-24_14-52-26.png)
+
+- on Phone
+![](images/Xnip2022-01-24_14-53-19.png)
+
+### SecondPage
+- on Pad
+![](images/Xnip2022-01-24_14-54-09.png)
+
+- on Phone
+![](images/Xnip2022-01-24_14-53-54.png)
