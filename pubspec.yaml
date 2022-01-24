@@ -2,6 +2,8 @@ name: split_screen_menu
 description: A split-screen menu page
 version: 0.0.1
 homepage: https://github.com/chansLam/split_screen_menu
+repository: https://github.com/chansLam/split_screen_menu
+publish_to: https://pub.dartlang.org
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
