@@ -3,11 +3,12 @@
 A split-screen menu page
 
 ## Getting Started
+- ###isMobileLayout `retun bool`
 - ### SplitScreenMenu
-  - menu 
-  - initialRoute
-  - initPage
-  - onGenerateRoute
+  - **menu** `Widget`
+  - **initialRoute** `String?`
+  - **initPage** `Widget?`
+  - **onGenerateRoute** `RouteFactory?`
 - ###MenuNavigator
   - push
   - pushNamed
